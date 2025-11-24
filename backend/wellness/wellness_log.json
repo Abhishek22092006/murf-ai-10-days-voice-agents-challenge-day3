@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2025-11-24T10:57:02.459052",
+        "user_name": "Roy",
+        "mood": "low",
+        "energy": "low",
+        "stress": "",
+        "objectives": [
+            "go for a walk",
+            "read a book"
+        ],
+        "agent_summary": "Roy reported low mood and low energy. His objectives for the day are to go for a walk and read a book. Encouraged self-compassion and taking things at his own pace."
+    }
+]
